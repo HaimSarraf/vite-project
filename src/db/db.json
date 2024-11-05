@@ -1,0 +1,67 @@
+{
+  "skills": [
+    {
+      "id": 1,
+      "skill": "HTML-CSS",
+      "level": "Advanced",
+      "color": "orange",
+      "emoji": "😎"
+    },
+    {
+      "id": 2,
+      "skill": "Javascript",
+      "level": "Advanced",
+      "color": "yellow",
+      "emoji": "😎"
+    },
+    {
+      "id": 3,
+      "skill": "Typescript",
+      "level": "Advanced",
+      "color": "blue",
+      "emoji": "😎"
+    },
+    {
+      "id": 4,
+      "skill": "React",
+      "level": "Advanced",
+      "color": "cyan",
+      "emoji": "😎"
+    },
+    {
+      "id": 5,
+      "skill": "NextJs",
+      "level": "Advanced",
+      "color": "black",
+      "emoji": "😎"
+    },
+    {
+      "id": 6,
+      "skill": "Zustand",
+      "level": "Intermediate",
+      "color": "violet",
+      "emoji": "🤓"
+    },
+    {
+      "id": 7,
+      "skill": "ReactQuery",
+      "level": "Beginner",
+      "color": "orange",
+      "emoji": "✍"
+    },
+    {
+      "id": 8,
+      "skill": "Redux",
+      "level": "Intermediate",
+      "color": "pink",
+      "emoji": "🤓"
+    },
+    {
+      "id": 9,
+      "skill": "Redux-Toolkit",
+      "level": "Intermediate",
+      "color": "yellow",
+      "emoji": "🤓"
+    }
+  ]
+}
